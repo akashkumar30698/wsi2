@@ -1,7 +1,7 @@
 import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { ArrowLeft, Download, ZoomIn, ZoomOut } from "lucide-react"
+import {  ZoomIn, ZoomOut } from "lucide-react"
 
 
 export default function RightSide() {

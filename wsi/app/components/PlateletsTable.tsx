@@ -1,6 +1,6 @@
 "use client"
 import { Card } from "@/components/ui/card"
-import { Table, TableBody, TableCell, TableHeader, TableRow } from "@/components/ui/table"
+import { Table, TableBody, TableCell, TableRow } from "@/components/ui/table"
 import { Badge } from "@/components/ui/badge"
 
 export default function PlateletsTable() {
